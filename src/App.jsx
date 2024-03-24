@@ -25,11 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Varda Ali",
-  title: "Cyber Security Student",
+  title: "Passionate Cyber Security Student",
   email: "vardaali282@gmail.com",
   gitHub: "https://github.com/poisonous-idiot/",
   linkedIn: "https://www.linkedin.com/in/varda-ali",
   twitter: "https://twitter.com/VardaAli3131",
+  youTube: "https://www.youtube.com/channel/UCybLGkGgRUOuLLmH9b8OZfQ",
 };
 
 const primaryColor = "#4E567E";

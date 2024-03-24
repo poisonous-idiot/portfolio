@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/hacker-6842560_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "hacker image";
 
 /**
  * Project list
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cryptography through Seed labs 🔒🔑🔓",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Implemented and experimented with Public Key Infrastructure (PKI) concepts within the framework of Seed Labs, showcasing proficiency in cryptographic protocols, digital certificates, and secure communication paradigms. Demonstrated practical applications of PKI in ensuring confidentiality, integrity, and authenticity in various networked environments.",
+  
   },
   {
-    title: "Web Development for Beginners",
+    title: "Security Operations Center (SOC) Practices 🛡️🚨",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Spearheaded Security Operations Center (SOC) practices by managing Security Information and Event Management (SIEM) with WAZUH. Led monitoring, analysis, and response to security incidents, leveraging WAZUH's functionalities for log management, intrusion detection, and threat intelligence integration, ensuring proactive defense and rapid incident resolution.",
   },
   {
-    title: "My Resume Site",
+    title: "Development and Cybersecurity Proficiency 👨‍💻",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "lDeveloped various systems including Stock Management, Car Rental, Student Record, and Hospital Management Systems in C++. Additionally, created a Caesar cipher tool, mastered image encryption, crafted a password strength checker, built a keylogger, and explored packet analysis in Python, showcasing versatile skills in development and cybersecurity.",
+
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mobile Forensics 📱🔍",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Conducted forensic analysis on mobile devices to gather digital evidence for investigations. Employed specialized techniques and tools to extract, preserve, and analyze data from smartphones and tablets, contributing to legal proceedings and cybersecurity incident response efforts.",
+  
   },
 ];
 
