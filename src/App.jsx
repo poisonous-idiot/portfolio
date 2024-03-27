@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Varda Ali",
-  title: "Passionate Cyber Security Student",
+  title: "Passionate Cyber Security Student ",
   email: "vardaali282@gmail.com",
   gitHub: "https://github.com/poisonous-idiot/",
   linkedIn: "https://www.linkedin.com/in/varda-ali",
